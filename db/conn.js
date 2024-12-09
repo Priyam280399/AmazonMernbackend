@@ -50,7 +50,7 @@
 
 const mongoose = require('mongoose');
 
-const uri = 'mongodb+srv://gudun28032000:f9mFQYzlzsJVEOid@cluster0.pelpe4o.mongodb.net/Amazonweb'
+const uri = 'mongodb+srv://gudun28032000:2Ru3dQ2l82HH6EPL@cluster0.pelpe4o.mongodb.net/Amazonweb'
  mongoose.connect(uri)
 
 const db = mongoose.connection;
