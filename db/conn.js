@@ -50,8 +50,9 @@
 
 const mongoose = require('mongoose');
 
-const uri = 'mongodb+srv://gudun28032000:2Ru3dQ2l82HH6EPL@cluster0.pelpe4o.mongodb.net/<database>?retryWrites=true&w=majority&tls=true'
-            
+const uri = ' mongodb+srv://gudun28032000:2Ru3dQ2l82HH6EPL@cluster0.pelpe4o.mongodb.net/Amazonweb?retryWrites=true&w=majority'
+           
+
 
  mongoose.connect(uri)
 
